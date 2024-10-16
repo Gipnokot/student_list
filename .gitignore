@@ -19,3 +19,4 @@ vendor/         # Папка с зависимостями Composer
 # Игнорировать системные файлы
 .DS_Store       # macOS
 Thumbs.db       # Windows
+.env
